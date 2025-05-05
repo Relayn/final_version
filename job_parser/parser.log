@@ -1,0 +1,48 @@
+2025-04-30 23:04:52,259 - root - INFO - Обработка страницы 1: https://www.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-04-30 23:04:52,262 - root - INFO - Обработка страницы 2: https://www.superjob.ru/vacancy/search/?keywords=Python&page=2
+2025-04-30 23:04:52,266 - root - INFO - Обработка страницы 3: https://www.superjob.ru/vacancy/search/?keywords=Python&page=3
+2025-04-30 23:04:52,272 - root - INFO - Обработка страницы 4: https://www.superjob.ru/vacancy/search/?keywords=Python&page=4
+2025-04-30 23:04:52,946 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:52,946 - root - INFO - Обработка страницы 5: https://www.superjob.ru/vacancy/search/?keywords=Python&page=5
+2025-04-30 23:04:53,137 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:53,137 - root - INFO - Обработка страницы 6: https://www.superjob.ru/vacancy/search/?keywords=Python&page=6
+2025-04-30 23:04:53,234 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:53,234 - root - INFO - Обработка страницы 7: https://www.superjob.ru/vacancy/search/?keywords=Python&page=7
+2025-04-30 23:04:53,248 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:53,248 - root - INFO - Обработка страницы 8: https://www.superjob.ru/vacancy/search/?keywords=Python&page=8
+2025-04-30 23:04:53,507 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:53,507 - root - INFO - Обработка страницы 9: https://www.superjob.ru/vacancy/search/?keywords=Python&page=9
+2025-04-30 23:04:53,520 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:53,520 - root - INFO - Обработка страницы 10: https://www.superjob.ru/vacancy/search/?keywords=Python&page=10
+2025-04-30 23:04:53,675 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:53,675 - root - INFO - Обработка страницы 11: https://www.superjob.ru/vacancy/search/?keywords=Python&page=11
+2025-04-30 23:04:53,805 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:53,806 - root - INFO - Обработка страницы 12: https://www.superjob.ru/vacancy/search/?keywords=Python&page=12
+2025-04-30 23:04:53,975 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:53,975 - root - INFO - Обработка страницы 13: https://www.superjob.ru/vacancy/search/?keywords=Python&page=13
+2025-04-30 23:04:53,975 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:53,980 - root - INFO - Обработка страницы 14: https://www.superjob.ru/vacancy/search/?keywords=Python&page=14
+2025-04-30 23:04:54,273 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:54,274 - root - INFO - Обработка страницы 15: https://www.superjob.ru/vacancy/search/?keywords=Python&page=15
+2025-04-30 23:04:54,311 - root - ERROR - Обнаружена капча. Парсинг остановлен.
+2025-04-30 23:04:54,312 - root - INFO - Обработка страницы 16: https://www.superjob.ru/vacancy/search/?keywords=Python&page=16
+2025-04-30 23:04:54,347 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:54,348 - root - INFO - Обработка страницы 17: https://www.superjob.ru/vacancy/search/?keywords=Python&page=17
+2025-04-30 23:04:54,401 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:54,401 - root - INFO - Обработка страницы 18: https://www.superjob.ru/vacancy/search/?keywords=Python&page=18
+2025-04-30 23:04:54,688 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:54,688 - root - INFO - Обработка страницы 19: https://www.superjob.ru/vacancy/search/?keywords=Python&page=19
+2025-04-30 23:04:54,700 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:54,700 - root - INFO - Обработка страницы 20: https://www.superjob.ru/vacancy/search/?keywords=Python&page=20
+2025-04-30 23:04:54,784 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:54,835 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:54,999 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:55,038 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:04:55,041 - root - INFO - Удалено 0 старых записей
+2025-05-01 15:39:16,653 - parsers.sj_parser - INFO - РћР±СЂР°Р±РѕС‚РєР° СЃС‚СЂР°РЅРёС†С‹ 1: https://www.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-05-01 15:39:26,381 - parsers.sj_parser - ERROR - РћР±РЅР°СЂСѓР¶РµРЅР° РєР°РїС‡Р°. РџР°СѓР·Р° РЅР° 10 РјРёРЅСѓС‚.
+2025-05-01 15:45:20,609 - parsers.sj_parser - INFO - РћР±СЂР°Р±РѕС‚РєР° СЃС‚СЂР°РЅРёС†С‹ 1: https://www.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-05-01 15:45:30,338 - parsers.sj_parser - ERROR - РћР±РЅР°СЂСѓР¶РµРЅР° РєР°РїС‡Р°. РџР°СѓР·Р° РЅР° 10 РјРёРЅСѓС‚.
+2025-05-01 15:55:30,339 - parsers.sj_parser - WARNING - РџСЂРѕРїСѓСЃРє СЃС‚СЂР°РЅРёС†С‹ РёР·-Р·Р° РѕР±РЅР°СЂСѓР¶РµРЅРЅРѕР№ РєР°РїС‡Рё
+2025-05-01 15:55:30,339 - parsers.sj_parser - WARNING - РџСЂРѕРїСѓСЃРє СЃС‚СЂР°РЅРёС†С‹ РёР·-Р·Р° РѕР±РЅР°СЂСѓР¶РµРЅРЅРѕР№ РєР°РїС‡Рё
+2025-05-01 15:55:30,339 - parsers.sj_parser - INFO - РќР°Р№РґРµРЅРѕ 0 РІР°РєР°РЅСЃРёР№

@@ -1,0 +1,524 @@
+2025-04-30 23:12:28,146 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:28,523 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:28,524 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:28,647 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:35,347 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:35,407 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:35,566 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:35,626 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:41,663 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:41,904 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:42,066 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:42,555 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:47,641 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:47,992 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:48,146 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:48,963 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:53,767 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:54,139 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:54,415 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:55,295 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary_raw
+2025-04-30 23:12:55,296 - parsers.hh_parser - INFO - Всего найдено 1000 вакансий
+2025-04-30 23:12:58,199 - root - INFO - Обработка страницы 1: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-04-30 23:12:58,210 - root - INFO - Обработка страницы 2: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=2
+2025-04-30 23:12:58,228 - root - INFO - Обработка страницы 3: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=3
+2025-04-30 23:12:58,242 - root - INFO - Обработка страницы 4: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=4
+2025-04-30 23:12:59,032 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:12:59,032 - root - INFO - Обработка страницы 5: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=5
+2025-04-30 23:12:59,048 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:12:59,048 - root - INFO - Обработка страницы 6: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=6
+2025-04-30 23:12:59,169 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:12:59,169 - root - INFO - Обработка страницы 7: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=7
+2025-04-30 23:12:59,652 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:12:59,652 - root - INFO - Обработка страницы 8: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=8
+2025-04-30 23:12:59,784 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:12:59,784 - root - INFO - Обработка страницы 9: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=9
+2025-04-30 23:12:59,947 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:12:59,947 - root - INFO - Обработка страницы 10: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=10
+2025-04-30 23:13:00,150 - root - ERROR - Обнаружена капча. Парсинг остановлен.
+2025-04-30 23:13:00,150 - root - INFO - Обработка страницы 11: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=11
+2025-04-30 23:13:00,569 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:00,569 - root - INFO - Обработка страницы 12: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=12
+2025-04-30 23:13:00,629 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:00,629 - root - INFO - Обработка страницы 13: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=13
+2025-04-30 23:13:00,883 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:00,883 - root - INFO - Обработка страницы 14: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=14
+2025-04-30 23:13:00,883 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:00,892 - root - INFO - Обработка страницы 15: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=15
+2025-04-30 23:13:01,066 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:01,081 - root - INFO - Обработка страницы 16: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=16
+2025-04-30 23:13:01,390 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:01,392 - root - INFO - Обработка страницы 17: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=17
+2025-04-30 23:13:01,471 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:01,471 - root - INFO - Обработка страницы 18: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=18
+2025-04-30 23:13:01,541 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:01,541 - root - INFO - Обработка страницы 19: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=19
+2025-04-30 23:13:01,795 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:01,795 - root - INFO - Обработка страницы 20: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=20
+2025-04-30 23:13:02,109 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:02,109 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:02,129 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:02,398 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:13:02,404 - root - INFO - Удалено 0 старых записей
+2025-04-30 23:13:20,768 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 23:13:20,768 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 23:13:20,774 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:13:21,532 - werkzeug - WARNING -  * Debugger is active!
+2025-04-30 23:13:21,532 - werkzeug - INFO -  * Debugger PIN: 998-451-779
+2025-04-30 23:13:22,833 - werkzeug - INFO - 127.0.0.1 - - [30/Apr/2025 23:13:22] "GET / HTTP/1.1" 200 -
+2025-04-30 23:13:23,036 - werkzeug - INFO - 127.0.0.1 - - [30/Apr/2025 23:13:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-30 23:13:24,514 - werkzeug - INFO - 127.0.0.1 - - [30/Apr/2025 23:13:24] "GET /vacancies HTTP/1.1" 200 -
+2025-04-30 23:13:24,548 - werkzeug - INFO - 127.0.0.1 - - [30/Apr/2025 23:13:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-30 23:13:54,763 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-04-30 23:13:55,071 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:13:55,946 - werkzeug - WARNING -  * Debugger is active!
+2025-04-30 23:13:55,950 - werkzeug - INFO -  * Debugger PIN: 998-451-779
+2025-04-30 23:15:14,982 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:15:14,983 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:15:14,983 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:15:15,154 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:15:16,045 - werkzeug - WARNING -  * Debugger is active!
+2025-04-30 23:15:16,047 - werkzeug - INFO -  * Debugger PIN: 998-451-779
+2025-04-30 23:16:22,210 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:16:22,211 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:16:22,911 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:16:23,656 - werkzeug - WARNING -  * Debugger is active!
+2025-04-30 23:16:23,658 - werkzeug - INFO -  * Debugger PIN: 998-451-779
+2025-04-30 23:17:49,472 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:17:49,865 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:17:49,872 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:17:50,221 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:17:55,897 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:17:56,301 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:17:57,053 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:17:57,118 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:03,076 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:04,256 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:04,487 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:04,663 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:09,906 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:11,318 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:11,637 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:11,727 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:16,542 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:17,924 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:17,969 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:18,072 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:18:18,072 - parsers.hh_parser - INFO - Всего найдено 1000 вакансий
+2025-04-30 23:18:20,764 - root - INFO - Обработка страницы 1: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-04-30 23:18:20,765 - root - INFO - Обработка страницы 2: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=2
+2025-04-30 23:18:20,777 - root - INFO - Обработка страницы 3: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=3
+2025-04-30 23:18:20,787 - root - INFO - Обработка страницы 4: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=4
+2025-04-30 23:18:21,486 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:21,486 - root - INFO - Обработка страницы 5: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=5
+2025-04-30 23:18:21,496 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:21,497 - root - INFO - Обработка страницы 6: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=6
+2025-04-30 23:18:21,597 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:21,597 - root - INFO - Обработка страницы 7: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=7
+2025-04-30 23:18:22,206 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:22,207 - root - INFO - Обработка страницы 8: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=8
+2025-04-30 23:18:22,246 - root - ERROR - Обнаружена капча. Парсинг остановлен.
+2025-04-30 23:18:22,246 - root - INFO - Обработка страницы 9: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=9
+2025-04-30 23:18:22,372 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:22,372 - root - INFO - Обработка страницы 10: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=10
+2025-04-30 23:18:22,383 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:22,383 - root - INFO - Обработка страницы 11: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=11
+2025-04-30 23:18:23,038 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:23,038 - root - INFO - Обработка страницы 12: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=12
+2025-04-30 23:18:23,044 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:23,044 - root - INFO - Обработка страницы 13: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=13
+2025-04-30 23:18:23,058 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:23,059 - root - INFO - Обработка страницы 14: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=14
+2025-04-30 23:18:23,817 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:23,818 - root - INFO - Обработка страницы 15: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=15
+2025-04-30 23:18:23,846 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:23,846 - root - INFO - Обработка страницы 16: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=16
+2025-04-30 23:18:23,914 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:23,915 - root - INFO - Обработка страницы 17: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=17
+2025-04-30 23:18:24,501 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:24,501 - root - INFO - Обработка страницы 18: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=18
+2025-04-30 23:18:24,578 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:24,578 - root - INFO - Обработка страницы 19: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=19
+2025-04-30 23:18:24,602 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:24,603 - root - INFO - Обработка страницы 20: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=20
+2025-04-30 23:18:25,275 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:25,356 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:25,378 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:25,394 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:18:25,396 - root - INFO - Удалено 0 старых записей
+2025-04-30 23:22:08,271 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:22:08,271 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:22:08,273 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:22:09,065 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:22:09,900 - werkzeug - WARNING -  * Debugger is active!
+2025-04-30 23:22:09,902 - werkzeug - INFO -  * Debugger PIN: 998-451-779
+2025-04-30 23:22:29,554 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:22:29,555 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:22:30,145 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:22:30,860 - werkzeug - WARNING -  * Debugger is active!
+2025-04-30 23:22:30,862 - werkzeug - INFO -  * Debugger PIN: 998-451-779
+2025-04-30 23:23:38,500 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:23:38,501 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:23:38,501 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-04-30 23:23:39,449 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:27:53,310 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:27:53,867 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:27:54,012 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:27:54,033 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:27:59,735 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:27:59,995 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:00,481 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:00,693 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:05,921 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:06,508 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:06,736 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:06,843 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:12,168 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:12,686 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:12,932 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:13,200 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:18,609 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:19,273 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:19,462 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:19,644 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:28:19,646 - parsers.hh_parser - INFO - Всего найдено 1000 вакансий
+2025-04-30 23:28:22,477 - root - INFO - Обработка страницы 1: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-04-30 23:28:22,483 - root - INFO - Обработка страницы 2: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=2
+2025-04-30 23:28:22,498 - root - INFO - Обработка страницы 3: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=3
+2025-04-30 23:28:22,509 - root - INFO - Обработка страницы 4: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=4
+2025-04-30 23:28:23,490 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:23,490 - root - INFO - Обработка страницы 5: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=5
+2025-04-30 23:28:23,502 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:23,502 - root - INFO - Обработка страницы 6: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=6
+2025-04-30 23:28:23,578 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:23,579 - root - INFO - Обработка страницы 7: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=7
+2025-04-30 23:28:24,172 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:24,172 - root - INFO - Обработка страницы 8: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=8
+2025-04-30 23:28:24,466 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:24,467 - root - INFO - Обработка страницы 9: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=9
+2025-04-30 23:28:24,631 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:24,632 - root - INFO - Обработка страницы 10: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=10
+2025-04-30 23:28:25,059 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:25,059 - root - INFO - Обработка страницы 11: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=11
+2025-04-30 23:28:25,101 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:25,101 - root - INFO - Обработка страницы 12: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=12
+2025-04-30 23:28:25,365 - root - ERROR - Обнаружена капча. Парсинг остановлен.
+2025-04-30 23:28:25,365 - root - INFO - Обработка страницы 13: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=13
+2025-04-30 23:28:25,536 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:25,536 - root - INFO - Обработка страницы 14: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=14
+2025-04-30 23:28:25,903 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:25,903 - root - INFO - Обработка страницы 15: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=15
+2025-04-30 23:28:25,954 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:25,954 - root - INFO - Обработка страницы 16: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=16
+2025-04-30 23:28:26,159 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:26,159 - root - INFO - Обработка страницы 17: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=17
+2025-04-30 23:28:26,180 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:26,180 - root - INFO - Обработка страницы 18: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=18
+2025-04-30 23:28:26,452 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:26,453 - root - INFO - Обработка страницы 19: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=19
+2025-04-30 23:28:26,702 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:26,704 - root - INFO - Обработка страницы 20: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=20
+2025-04-30 23:28:26,816 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:26,886 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:27,020 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:27,181 - root - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:28:27,183 - root - INFO - Удалено 0 старых записей
+2025-04-30 23:34:25,200 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:25,364 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:25,487 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:25,504 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:31,710 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:31,728 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:32,009 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:32,164 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:37,797 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:38,036 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:38,163 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:40,471 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:43,711 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:44,382 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:44,817 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:46,545 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:49,858 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:50,094 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:52,163 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:53,964 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:34:53,965 - parsers.hh_parser - INFO - Всего найдено 1000 вакансий
+2025-04-30 23:34:55,278 - parsers.sj_parser - INFO - Обработка страницы 1: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-04-30 23:34:55,284 - parsers.sj_parser - INFO - Обработка страницы 2: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=2
+2025-04-30 23:34:55,290 - parsers.sj_parser - INFO - Обработка страницы 3: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=3
+2025-04-30 23:34:55,294 - parsers.sj_parser - INFO - Обработка страницы 4: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=4
+2025-04-30 23:34:56,056 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:56,057 - parsers.sj_parser - INFO - Обработка страницы 5: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=5
+2025-04-30 23:34:56,440 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:56,442 - parsers.sj_parser - INFO - Обработка страницы 6: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=6
+2025-04-30 23:34:56,443 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:56,449 - parsers.sj_parser - INFO - Обработка страницы 7: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=7
+2025-04-30 23:34:56,798 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:56,798 - parsers.sj_parser - INFO - Обработка страницы 8: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=8
+2025-04-30 23:34:57,089 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:57,089 - parsers.sj_parser - INFO - Обработка страницы 9: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=9
+2025-04-30 23:34:57,285 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:57,285 - parsers.sj_parser - INFO - Обработка страницы 10: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=10
+2025-04-30 23:34:57,407 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:57,407 - parsers.sj_parser - INFO - Обработка страницы 11: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=11
+2025-04-30 23:34:57,813 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:57,813 - parsers.sj_parser - INFO - Обработка страницы 12: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=12
+2025-04-30 23:34:58,059 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:58,060 - parsers.sj_parser - INFO - Обработка страницы 13: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=13
+2025-04-30 23:34:58,306 - parsers.sj_parser - ERROR - Обнаружена капча. Парсинг остановлен.
+2025-04-30 23:34:58,307 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:58,308 - parsers.sj_parser - INFO - Обработка страницы 14: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=14
+2025-04-30 23:34:58,308 - parsers.sj_parser - INFO - Обработка страницы 15: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=15
+2025-04-30 23:34:58,371 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:58,372 - parsers.sj_parser - INFO - Обработка страницы 16: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=16
+2025-04-30 23:34:58,923 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:58,923 - parsers.sj_parser - INFO - Обработка страницы 17: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=17
+2025-04-30 23:34:59,000 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:59,000 - parsers.sj_parser - INFO - Обработка страницы 18: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=18
+2025-04-30 23:34:59,101 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:59,101 - parsers.sj_parser - INFO - Обработка страницы 19: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=19
+2025-04-30 23:34:59,161 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:59,161 - parsers.sj_parser - INFO - Обработка страницы 20: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=20
+2025-04-30 23:34:59,616 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:59,635 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:59,704 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:59,839 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:34:59,840 - parsers.sj_parser - INFO - Удалено 0 старых записей
+2025-04-30 23:34:59,840 - parsers.sj_parser - INFO - Парсинг завершен за 4.56 секунд. Найдено 0 вакансий
+2025-04-30 23:38:23,331 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:23,481 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:23,830 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:23,933 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:28,838 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:29,917 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:30,098 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:30,345 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:34,820 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:35,731 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:36,046 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:36,306 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:40,795 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:41,349 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:42,318 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:42,319 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:47,109 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:47,451 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:48,449 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:48,639 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-04-30 23:38:48,642 - parsers.hh_parser - INFO - Всего найдено 1000 вакансий
+2025-04-30 23:38:48,700 - parsers.sj_parser - INFO - Обработка страницы 1: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-04-30 23:38:48,705 - parsers.sj_parser - INFO - Обработка страницы 2: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=2
+2025-04-30 23:38:54,211 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:38:54,211 - parsers.sj_parser - INFO - Обработка страницы 3: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=3
+2025-04-30 23:38:56,039 - parsers.sj_parser - ERROR - Обнаружена капча. Пауза на 5 минут.
+2025-04-30 23:38:59,714 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-04-30 23:38:59,714 - parsers.sj_parser - WARNING - Пропуск страницы из-за обнаруженной капчи
+2025-04-30 23:38:59,715 - parsers.sj_parser - WARNING - Пропуск страницы из-за обнаруженной капчи
+2025-04-30 23:40:53,464 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 23:40:53,465 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 23:40:53,472 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:40:54,218 - werkzeug - WARNING -  * Debugger is active!
+2025-04-30 23:40:54,220 - werkzeug - INFO -  * Debugger PIN: 998-451-779
+2025-04-30 23:41:20,821 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 23:41:20,822 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 23:41:20,829 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:41:21,584 - werkzeug - WARNING -  * Debugger is active!
+2025-04-30 23:41:21,586 - werkzeug - INFO -  * Debugger PIN: 998-451-779
+2025-04-30 23:42:22,297 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 23:42:22,298 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 23:42:22,305 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-30 23:42:23,076 - werkzeug - WARNING -  * Debugger is active!
+2025-04-30 23:42:23,078 - werkzeug - INFO -  * Debugger PIN: 998-451-779
+2025-05-01 00:11:03,498 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-01 00:11:03,499 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-01 00:11:03,511 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-01 00:11:04,268 - werkzeug - WARNING -  * Debugger is active!
+2025-05-01 00:11:04,270 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-01 00:11:06,936 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 00:11:06] "GET / HTTP/1.1" 200 -
+2025-05-01 00:11:07,215 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 00:11:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 00:11:09,197 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 00:11:09] "GET /vacancies HTTP/1.1" 200 -
+2025-05-01 00:11:09,222 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 00:11:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 15:04:27,290 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:27,382 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:27,863 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:28,004 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:34,214 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:34,691 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:34,834 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:35,286 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:40,734 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:40,852 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:40,923 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:41,435 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:46,671 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:46,742 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:46,882 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:47,547 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:52,698 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:52,776 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:53,327 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:53,625 - parsers.hh_parser - ERROR - Ошибка сохранения в БД: table vacancies has no column named salary
+2025-05-01 15:04:53,627 - parsers.hh_parser - INFO - Всего найдено 1000 вакансий
+2025-05-01 15:04:53,679 - parsers.sj_parser - INFO - Обработка страницы 1: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-05-01 15:04:53,683 - parsers.sj_parser - INFO - Обработка страницы 2: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=2
+2025-05-01 15:04:59,388 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-05-01 15:04:59,388 - parsers.sj_parser - INFO - Обработка страницы 3: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=3
+2025-05-01 15:05:01,095 - parsers.sj_parser - ERROR - Обнаружена капча. Пауза на 5 минут.
+2025-05-01 15:05:05,010 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-05-01 15:05:05,011 - parsers.sj_parser - WARNING - Пропуск страницы из-за обнаруженной капчи
+2025-05-01 15:05:05,011 - parsers.sj_parser - WARNING - Пропуск страницы из-за обнаруженной капчи
+2025-05-01 15:09:33,635 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:33,882 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:33,949 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:34,224 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:39,637 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:39,640 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:39,900 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:40,603 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:46,634 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:46,730 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:46,804 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:47,083 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:52,424 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:52,643 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:52,776 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:53,671 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:58,320 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:58,671 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:09:59,631 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:10:00,471 - parsers.hh_parser - INFO - Сохранено 50 вакансий
+2025-05-01 15:10:00,472 - parsers.hh_parser - INFO - Всего найдено 1000 вакансий
+2025-05-01 15:10:00,523 - parsers.sj_parser - INFO - Обработка страницы 1: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=1
+2025-05-01 15:10:00,526 - parsers.sj_parser - INFO - Обработка страницы 2: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=2
+2025-05-01 15:10:04,590 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-05-01 15:10:04,591 - parsers.sj_parser - INFO - Обработка страницы 3: https://russia.superjob.ru/vacancy/search/?keywords=Python&page=3
+2025-05-01 15:10:06,395 - parsers.sj_parser - ERROR - Обнаружена капча. Пауза на 5 минут.
+2025-05-01 15:10:08,554 - parsers.sj_parser - WARNING - Редирект на /vacancy/search/?keywords=Python
+2025-05-01 15:10:08,554 - parsers.sj_parser - WARNING - Пропуск страницы из-за обнаруженной капчи
+2025-05-01 15:10:08,554 - parsers.sj_parser - WARNING - Пропуск страницы из-за обнаруженной капчи
+2025-05-01 15:26:13,905 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-01 15:26:13,906 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-01 15:26:13,913 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-01 15:26:14,642 - werkzeug - WARNING -  * Debugger is active!
+2025-05-01 15:26:14,644 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-01 15:26:41,291 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-01 15:26:41,291 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-01 15:26:41,299 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-01 15:26:42,063 - werkzeug - WARNING -  * Debugger is active!
+2025-05-01 15:26:42,066 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-01 15:31:33,424 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-01 15:31:33,425 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-01 15:31:33,438 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-01 15:31:34,236 - werkzeug - WARNING -  * Debugger is active!
+2025-05-01 15:31:34,238 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-01 15:31:36,908 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:31:36] "GET / HTTP/1.1" 200 -
+2025-05-01 15:31:37,128 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:31:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 15:31:39,380 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:31:39] "GET /vacancies HTTP/1.1" 200 -
+2025-05-01 15:31:39,408 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:31:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 15:34:37,529 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:34:37] "GET / HTTP/1.1" 200 -
+2025-05-01 15:34:37,670 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:34:37] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-01 15:34:38,905 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:34:38] "GET / HTTP/1.1" 200 -
+2025-05-01 15:34:38,925 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:34:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 15:34:39,478 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:34:39] "GET /vacancies HTTP/1.1" 200 -
+2025-05-01 15:34:39,492 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:34:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 15:35:22,410 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:35:22] "GET /vacancies?query=&location=М&company=&salary_min=&salary_max=&per_page=50 HTTP/1.1" 200 -
+2025-05-01 15:35:22,442 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:35:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 15:35:32,168 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:35:32] "GET /vacancies?query=&location=Москва&company=&salary_min=&salary_max=&per_page=50 HTTP/1.1" 200 -
+2025-05-01 15:35:32,200 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:35:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 15:35:34,237 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:35:34] "GET /vacancies?query=&location=Москва&company=&salary_min=&salary_max=&per_page=50 HTTP/1.1" 200 -
+2025-05-01 15:35:34,275 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:35:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 15:35:40,542 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:35:40] "GET /vacancies?query=Ja&location=Москва&company=&salary_min=&salary_max=&per_page=50 HTTP/1.1" 200 -
+2025-05-01 15:35:40,568 - werkzeug - INFO - 127.0.0.1 - - [01/May/2025 15:35:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-01 15:36:28,330 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-01 15:36:28,331 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-01 15:36:28,332 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-01 15:36:29,033 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-01 15:36:29,832 - werkzeug - WARNING -  * Debugger is active!
+2025-05-01 15:36:29,834 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-01 15:36:57,407 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-01 15:36:57,409 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-01 15:36:58,123 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-01 15:36:58,882 - werkzeug - WARNING -  * Debugger is active!
+2025-05-01 15:36:58,884 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-01 15:38:46,274 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-05-01 15:38:46,275 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-05-01 15:38:47,106 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-01 15:39:03,012 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-01 15:39:46,104 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-01 16:02:15,832 - werkzeug - WARNING -  * Debugger is active!
+2025-05-01 16:02:15,832 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-01 16:02:47,737 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\check_db.py', reloading
+2025-05-01 16:02:47,746 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\test_parser.py', reloading
+2025-05-01 16:02:48,959 - werkzeug - WARNING -  * Debugger is active!
+2025-05-01 16:02:48,962 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-01 16:02:53,230 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-01 16:02:53,233 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-05-01 16:02:54,742 - werkzeug - WARNING -  * Debugger is active!
+2025-05-01 16:02:54,744 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-03 10:19:44,302 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-03 10:19:44,302 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 10:19:44,316 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 10:19:45,300 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:19:45,328 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-03 10:19:47,797 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:19:47] "GET / HTTP/1.1" 200 -
+2025-05-03 10:19:48,048 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:19:48] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-03 10:19:51,670 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:19:51] "GET / HTTP/1.1" 200 -
+2025-05-03 10:19:51,692 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:19:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-03 10:19:54,061 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:19:54] "GET /vacancies HTTP/1.1" 200 -
+2025-05-03 10:19:54,092 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:19:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-03 10:58:59,593 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-03 10:58:59,594 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 10:58:59,606 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 10:59:00,444 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:59:00,446 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-03 10:59:08,492 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:59:08] "GET / HTTP/1.1" 200 -
+2025-05-03 10:59:08,508 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:59:08] "GET / HTTP/1.1" 200 -
+2025-05-03 10:59:08,761 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:59:08] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-03 10:59:08,774 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:59:08] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-03 10:59:18,409 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:59:18] "GET / HTTP/1.1" 200 -
+2025-05-03 10:59:18,562 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:59:18] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-05-03 10:59:20,011 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:59:20] "GET /vacancies HTTP/1.1" 200 -
+2025-05-03 10:59:20,042 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:59:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-03 11:06:05,385 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\check_db.py', reloading
+2025-05-03 11:06:05,386 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\test_parser.py', reloading
+2025-05-03 11:06:05,405 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-05-03 11:06:05,407 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-05-03 11:06:05,408 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-05-03 11:06:05,409 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-03 11:06:05,411 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-03 11:06:05,412 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-03 11:06:06,004 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 11:07:58,297 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 11:07:58,297 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-03 11:08:16,152 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-03 11:08:16,152 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 11:08:16,160 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 11:08:16,830 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 11:08:16,832 - werkzeug - INFO -  * Debugger PIN: 935-213-742
+2025-05-03 11:08:19,177 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 11:08:19] "GET / HTTP/1.1" 200 -
+2025-05-03 11:08:19,375 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 11:08:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-03 11:08:20,697 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 11:08:20] "GET / HTTP/1.1" 200 -
+2025-05-03 11:08:20,721 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 11:08:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-03 11:08:21,469 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 11:08:21] "GET /vacancies HTTP/1.1" 200 -
+2025-05-03 11:08:21,495 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 11:08:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-03 11:09:17,020 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\check_db.py', reloading
+2025-05-03 11:09:17,021 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\test_parser.py', reloading
+2025-05-03 11:09:17,035 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-05-03 11:09:17,036 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-05-03 11:09:17,037 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\hh_parser.py', reloading
+2025-05-03 11:09:17,037 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-03 11:09:17,038 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-03 11:09:17,038 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Tecno\\OneDrive\\Документы\\GitHub\\team_work\\job_parser\\parsers\\sj_parser.py', reloading
+2025-05-03 11:09:17,546 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
